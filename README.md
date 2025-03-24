@@ -1,6 +1,3 @@
 # Nexus_multi
 ```sh
-git clone https://github.com/pnpn1212/Nexus_multi.git
-cd Nexus_multi
-chmod +x run_nexus.sh
-./run_nexus.sh
+cd $HOME && source <(curl -s https://raw.githubusercontent.com/pnpn1212/Nexus_multi/refs/heads/main/run_nexus.sh)
